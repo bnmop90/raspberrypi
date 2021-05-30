@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "server.py", line 9, in <module>
+    server_socket.bind(addr)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "server.py", line 9, in <module>
+    server_socket.bind(addr)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "server.py", line 9, in <module>
+    server_socket.bind(addr)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "server.py", line 9, in <module>
+    server_socket.bind(addr)
+OSError: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "server.py", line 9, in <module>
+    server_socket.bind(addr)
+OSError: [Errno 98] Address already in use
